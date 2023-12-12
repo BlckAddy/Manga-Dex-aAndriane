@@ -1,0 +1,44 @@
+.Header {
+    width: 30%;
+    max-height: 300px; /* Adjust the height as needed */
+    overflow: hidden;
+    margin-bottom: 20px;
+    border: 5px solid #ddd;
+    text-align: center;
+    box-shadow: 0 4px 8px rgb(3, 121, 39);
+    padding: 20px; 
+    background-color:gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ body{
+     background-color: black;/* Add margin between title and description */
+}
+
+.head{
+    border: 5px solid #ddd; /* Add a border for the description box */
+    padding: 20px;
+    text-align: justify;
+    background-color:gray;
+    box-shadow: 0 4px 8px rgb(3, 136, 25);
+    color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;      /* Adjust padding for the description box */
+}
+
+.Header title {
+   color: white;
+}
+
+.Header img {
+    width: 50%;
+    height: auto;
+}
+
+input{
+    height: 10px;
+    padding: 20px;
+    border-radius: 50px;
+}
+ H1{
+    color: white;
+ }
